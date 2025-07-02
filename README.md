@@ -41,7 +41,7 @@ I hold a B.Sc. in Computer Science & Engineering and am currently pursuing
 
 #### 📌 Pinned Projects
 
-#### 1. Dream-Trip - Travel Enthusiasts Social Platform
+#### 1. Dream-Trip - Car Rental System
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/shouravpaul01/dreams-trip-car-rental-reservation-system) 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Online-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://dreamstrip.vercel.app/)
 
