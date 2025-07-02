@@ -1,16 +1,16 @@
 
 
 ![Banner/Cover Image](https://res.cloudinary.com/dcrui4h7s/image/upload/v1751429207/cover-image_cug3tv.jpg) 
-# 💫 About Me:
+# About Me
 I hold a B.Sc. in Computer Science & Engineering and am currently pursuing an M.Sc. in Computer Science at Jahangirnagar University. A lifelong tech enthusiast, I’ve built a strong foundation in React JS, Next JS, Node.js, Express.js, and MongoDB.<br><br>My portfolio spans e‑commerce sites, admin dashboards, and RESTful APIs, where I focus on writing clean, efficient code and turning real‑world problems into smart solutions.
 
 
-## How to Reach Me:
+## How to Reach Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shouravpaul.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shourav_Paul-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouravpaul01) [![Email](https://img.shields.io/badge/Email-shourav.paul01@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shourav.paul01@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
