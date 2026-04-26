@@ -11,9 +11,10 @@ I am always eager to learn, experiment, and build efficient, scalable solutions.
 
 
 ## How to Reach Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shouravpaul.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shourav_Paul-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouravpaul01) [![Email](https://img.shields.io/badge/Email-shourav.paul01@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shourav.paul01@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-black?style=flat&logo=google-chrome&logoColor=white)](https://shouravpaul.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shourav_Paul-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouravpaul01)
+[![Email](https://img.shields.io/badge/Email-shourav.paul01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shourav.paul01@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
 
 ## Tech Stack
 
