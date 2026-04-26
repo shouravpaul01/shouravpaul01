@@ -1,8 +1,13 @@
 
 
-![Banner/Cover Image](https://res.cloudinary.com/dcrui4h7s/image/upload/v1751429207/cover-image_cug3tv.jpg) 
-# About Me
-I hold a B.Sc. in Computer Science & Engineering and am currently pursuing an M.Sc. in Computer Science at Jahangirnagar University. A lifelong tech enthusiast, I’ve built a strong foundation in React JS, Next JS, Node.js, Express.js, and MongoDB.<br><br>My portfolio spans e‑commerce sites, admin dashboards, and RESTful APIs, where I focus on writing clean, efficient code and turning real‑world problems into smart solutions.
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Shourav Paul</h1>
+
+I am a  curious programmer who enjoys exploring new technologies every day. Over the past two years, I have been working as a full-stack developer, continuously improving my skills and expanding my knowledge across different areas of software development.
+
+During this time, I have successfully delivered 20+ client projects, each of which has contributed to my growth and practical experience. Working with diverse clients and requirements has helped me strengthen my problem-solving abilities, adaptability, and understanding of real-world development challenges.
+
+I am always eager to learn, experiment, and build efficient, scalable solutions. My goal is to keep growing as a developer while staying up to date with the latest trends and technologies in the industry.
+
 
 
 ## How to Reach Me
